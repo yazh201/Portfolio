@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.22f6fc04.css",
+    "main.js": "/Portfolio/static/js/main.9127da57.js",
+    "static/media/shop.png": "/Portfolio/static/media/shop.b92a1e077e703fa71a34.png",
+    "static/media/robo.png": "/Portfolio/static/media/robo.fa3423805f3a472d48bb.png",
+    "static/media/quiz.png": "/Portfolio/static/media/quiz.420c9d117f5dea992a7f.png",
+    "index.html": "/Portfolio/index.html",
+    "main.22f6fc04.css.map": "/Portfolio/static/css/main.22f6fc04.css.map",
+    "main.9127da57.js.map": "/Portfolio/static/js/main.9127da57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f6fc04.css",
+    "static/js/main.9127da57.js"
+  ]
+}
