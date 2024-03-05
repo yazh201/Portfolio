@@ -1,0 +1,84 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;500;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 16px;
+  padding: 140px 0 100px;
+}
+
+.heading {
+  font-family: Outfit;
+  margin-top: -16px;
+  font-size: 56px;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+.subheading-1 {
+  font-family: Outfit;
+  font-size: 32px;
+  font-weight: 800;
+  text-align: center;
+  color: rgb(108, 121, 142);
+}
+
+.subheading-2 {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
+  color: grey;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  padding: 16px;
+}
+
+.info {
+  font-family: Outfit;
+  font-size: 24px;
+}
+
+.abbrevation {
+  font-weight: 700;
+}
+
+@media screen and (max-width: 786px) {
+  .section {
+    padding: 120px 0 40px;
+  }
+
+  .heading {
+    font-size: 40px;
+  }
+
+  .subheading-1 {
+    font-size: 24px;
+  }
+
+  .subheading-2 {
+    font-size: 16px;
+  }
+
+  .info {
+    font-size: 16px;
+    text-align: justify;
+  }
+}

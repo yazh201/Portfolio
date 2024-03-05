@@ -1,0 +1,82 @@
+{
+    "Profile": {
+        "catchy_line": "Have a sight on my",
+        "title": "Profile",
+        "img_url": "../../assets/me.png",
+        "name": "Vivekayazhini CN",
+        "greetings": "Hi, This is",
+        "role": "Front end Dev",
+        "github": "https://github.com/yazh201",
+        "linked_in": "https://www.linkedin.com/in/vivekayazhini-cn-0538982a5/"
+    },
+    "about": {
+        "catchy_line": "Get to Know more",
+        "title": "About Me",
+        "education": "Education",
+        "degree": "BE",
+        "abb": "(I&CE)",
+        "clg": "PSG college of technology",
+        "info": [
+            "Front End Developer specializing in HTML, CSS, JavaScript, and React.",
+            "Dedicated to creating intuitive and visually appealing user interfaces.",
+            "Continuously learning and exploring new technologies to stay ahead.",
+            " With a keen eye for design and a love for problem-solving, I strive to deliver exceptional digital experiences.",
+            "Let's collaborate and bring your ideas to life!"
+        ]
+    },
+    "skill": {
+        "catchy_line": "Explore my",
+        "title": "Skill Stack",
+        "front_end": {
+            "name": "Front End Dev",
+            "skill_stack": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React"
+            ]
+        }
+    },
+    "projects": {
+        "catchy_line": "Browse my recent work",
+        "title": "Projects",
+        "proj_list": [
+            {
+                "proj_id": 1,
+                "proj_name": "RoboPro -Interactive Robotic Profiles Application",
+                "proj_desc": "Robo Profile is an interactive web app created with React, HTML, and CSS, featuring a collection of unique robot profiles. Users can explore personalized robot cards with distinct avatars, names, and email addresses. The app allows seamless searching by name with real-time filtering, ensuring a visually engaging experience across all devices",
+                "github_link": "https://github.com/yazh201/robots"
+            },
+            {
+                "proj_id": 2,
+                "proj_name": "ReactQuiz- Interactive Learning Platform",
+                "proj_desc": "A dynamic Quiz App built with React, offering interactive quizzes on various topics. Users can navigate seamlessly, receive instant feedback, and track their progress. Leveraging React's architecture, this project showcases scalability and responsiveness, promising an enjoyable educational experience for all",
+                "github_link": "https://github.com/yazh201/quiz-app"
+            },
+            {
+                "proj_id": 3,
+                "proj_name": "Shopping List",
+                "proj_desc": "An interactive Shopping List project using HTML, CSS, and JavaScript. Enjoy seamless item management, categorization, and quantity tracking. With a responsive design, stay organized whether planning a grocery run or retail therapy",
+                "github_link": "https://github.com/yazh201/shopping-list--js"
+            },
+            {
+                "proj_id": 4,
+                "proj_name": "Tic Tac Toe",
+                "proj_desc": "This project is developed using the React framework, leveraging props and hooks like useState(). It boasts responsiveness and utilizes a tech stack including HTML, CSS, JavaScript, and React.js. Explore seamless interactivity and dynamic functionality in this engaging web application.",
+                "github_link": "https://github.com/yazh201/TicTacToe"
+            },
+            {
+                "proj_id": 5,
+                "proj_name": "React Chuck Norris Jokes App",
+                "proj_desc": "This project focuses on efficiently handling API calls using React.js, utilizing hooks such as useState() and useEffect(). It dynamically fetches random jokes from an external API. The tech stack includes HTML, CSS, JavaScript, and React.js, ensuring seamless integration and engaging user experience",
+                "github_link": "https://github.com/yazh201/jokegeneratorr"
+            }
+        ]
+    },
+    "contact": {
+        "catchy_line": "Get In Touch",
+        "title": "Contact Me",
+        "email": "yazh2110@gmail.com",
+        "linked_in": "https://www.linkedin.com/in/vivekayazhini-cn-0538982a5/"
+    }
+}

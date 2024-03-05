@@ -1,0 +1,9 @@
+.main-section {
+  padding: 0px 96px;
+}
+
+@media screen and (max-width: 786px) {
+  .main-section {
+    padding: 0 40px;
+  }
+}

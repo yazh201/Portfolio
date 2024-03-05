@@ -1,0 +1,19 @@
+.about-content {
+  display: flex;
+  align-items: center;
+  column-gap: 120px;
+}
+
+.edu-content {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  text-align: center;
+}
+
+@media screen and (max-width: 786px) {
+  .about-content {
+    flex-direction: column;
+  }
+}
